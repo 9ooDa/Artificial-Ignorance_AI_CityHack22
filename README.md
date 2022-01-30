@@ -29,11 +29,10 @@ Another essential feature of our project is recognizing the critical features fo
 The recognition and selection of the prediction method and its hyperparameters for our prediction is also one of the impactful feature of this Project. Trough the appliance of numerous different methods, we found that Random Forest Regressor returned the best R squared and prediction of the future demand. In addition, thorugh the modification of its parameters, we were able to find the best parameters (hyperparameter) for the accurate demand prediction. <br />
 
 ## Tech used (as many as required)
-#### 1. < Tech >
-
-
-#### 2. < Tech >
-
-#### 3. < Tech >
-
-#### 4. < Tech >
+#### 1. < Random Forest Regressor >
+#### 2. < Linear Regression >
+#### 3. < Support Vector Regression (SVR) >
+#### 4. < K-Nearest Neighbors (KNN) >
+#### 5. < Decision Tree Classifier >
+#### 6. < Linear Discriminant Analysis (LDA) >
+#### 7. < Gaussian NB >
