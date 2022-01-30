@@ -1,6 +1,6 @@
 # CityHack2022Artificial-Ignorance
 ## Project: < Cabbage demand prediction >
-![Cabbage](app_screenshot.png)
+![Cabbage](cabbage_logo.png)
 
 ## Team: < Your Team Name >
 ## Members
