@@ -1,8 +1,7 @@
 # CityHack2022Artificial-Ignorance
 ## Project: < Cabbage demand prediction >
-<img src="../assets/img/LOGOS/logo1.png" width="200" alt="project_logo"/>
+![Cabbage](app_screenshot.png)
 
-< Replace the logo above with Your Project Logo >
 ## Team: < Your Team Name >
 ## Members
 - < Dayeon Ku > (Leader)
