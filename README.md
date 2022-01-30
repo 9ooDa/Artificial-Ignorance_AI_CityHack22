@@ -18,13 +18,13 @@ Some of the methods we used in the project were Random Forest Regressor, Linear 
 In addtion, as we sell our product to other sellers, we will be able to obtain new data for the number of demand and the features that can be later used to improve our prediction. <br />
 
 ## 3 Most Impactful Features of the Project (with Screenshot and Short Description (150 words))
-### 1. < Demand Prediction >
+#### 1. < Demand Prediction >
 
-### 2. < feature rank>
-### 3. < best parameter / hyper parameter >
+#### 2. < feature rank>
+#### 3. < best parameter / hyper parameter >
 
 ## Tech used (as many as required)
-1. < Tech >
-2. < Tech >
-3. < Tech >
-4. < Tech >
+#### 1. < Tech >
+#### 2. < Tech >
+#### 3. < Tech >
+#### 4. < Tech >
