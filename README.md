@@ -1,4 +1,4 @@
-# CityHack 2022 Artificial-Ignorance
+# Artificial-Ignorance_AI_CityHack22
 ## Project: < Cabbage demand prediction >
 ![Cabbage](cabbage_logo.png)
 
