@@ -19,13 +19,13 @@ In addition, as we sell our product to other sellers, we will be able to obtain 
 
 ## 3 Most Impactful Features of the Project (with Screenshot and Short Description (150 words))
 #### 1. < Demand Prediction >
-![](prediction.png | width=100) <br />
+![](prediction.png) <br />
 The key feature of our project is that it can predict the future demand of the cabbage through the given training data. This will allow higher profit and solve an environmental problem that initially occurred due to cabbage waste of unsold and remaining cabbages. <br />
 #### 2. < Important features recognition >
-![](imp_feature.png | width=100) <br />
+![](imp_feature.png) <br />
 Another essential feature of our project is recognizing the critical features for the prediction of demand. The two most important features that had an impact on the number of demand predictions were "Quality" and "Broker fee" (X1 and X2). <br />
 #### 3. < Principal method and its hyperparameter selection >
-![](best_parameter.png | width=100) <br />
+![](best_parameter.png) <br />
 The recognition and selection of the prediction method and its hyperparameters for our prediction is also one of the impactful feature of this Project. Trough the appliance of numerous different methods, we found that Random Forest Regressor returned the best R squared and prediction of the future demand. In addition, thorugh the modification of its parameters, we were able to find the best parameters (hyperparameter) for the accurate demand prediction. <br />
 
 ## Tech used (as many as required)
